@@ -10,7 +10,7 @@ Started: January 2026
 By: Jaswin Chinthala
 
 ## Note
-For many problem sets, starter code was provided by CS50.
+For many problem sets, starter/distribution code was provided by CS50.
 My work focused on implementing required functions, logic, and algorithms as specified.
 
 
